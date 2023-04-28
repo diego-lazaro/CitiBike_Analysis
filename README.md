@@ -9,4 +9,5 @@ Utilized the CSV file as a data source in Tableau. Calculated various fields, su
 
 
 
-<img width="905" alt="UserDashboard" src="https://user-images.githubusercontent.com/115186079/235069229-e06f9192-d06e-4056-9470-cea4b12811d7.png">
+
+![image](https://user-images.githubusercontent.com/115186079/235081690-96877642-7195-45a0-a85e-bff29b7c2bc1.png)
